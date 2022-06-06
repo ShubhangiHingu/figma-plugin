@@ -1,0 +1,11 @@
+{
+  "name": "MY NEW",
+  "id": "1109014194535686384",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma",
+    "figjam"
+  ],
+  "ui": "ui.html"
+}
